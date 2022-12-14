@@ -1,0 +1,45 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+@charset "UTF-8"; 
+body { background-color: #c1d4c5; }
+
+
+ul {
+  list-style-type: none;
+ }
+
+   .btn{font-family: arial;}
+
+   .lead{font-family: Times new roman;}
+
+.nav-item:hover {
+	background-color:  #c1d4c5;
+
+
+}
+
+.nav-item:font-family cursive
+
+
+h2{font-family: georgia;}
+
+
+h1{color: black;
+font-family: Georgia;
+
+}
+.col-lg-8{text-align: center;}
+
+
+
+
+.navbar-brand{
+
+    font-family: Georgia;
+	font-size: x-large;
+
+
+
+
+
+
+}
